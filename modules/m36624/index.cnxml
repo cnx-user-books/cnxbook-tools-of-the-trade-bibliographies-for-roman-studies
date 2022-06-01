@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Roman Topography</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36624</md:content-id>
+  <md:title>Roman Topography</md:title>
+  <md:abstract>A basic introductory bibliography to the topography and monuments of the ancient city of Rome.</md:abstract>
+  <md:uuid>d34c6edd-3d20-4398-b30b-ec1bed5c084e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1172001414289">
+      <title>Topography of Rome</title>
+      <section id="id1172032289112">
+        <title>Edited by Mary Jaeger, University of Oregon</title>
+        <para id="para-id1172032289112"><!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        maryjaeg@uoregon.edu</para>
+      </section>
+      
+      <section id="id1172017552903">
+        <title>Archaeological Guides:</title>
+        <para id="id1172029638159">Claridge, A. 1998 (2 ed. 2010). <emphasis effect="italics">Rome</emphasis>. Oxford, New York: Oxford University Press. </para>
+        <para id="id1172030745122">A convenient, very well illustrated guide to the major archaeological sites of ancient Rome.</para>
+        <para id="id1172029265033">Coarelli, Filippo. <emphasis effect="italics">Rome and Environs. An Archaeological Guide. </emphasis>Berkeley: Univ. California Press, 2008. </para>
+        <para id="id1172019046090">Long considered the definitive guide by a major figure in Roman topography, Coarelli’s famous <emphasis effect="italics">Guida</emphasis> is now available in a revised English version by J. J. Clauss and D. P. Harmon of the University of Washington. </para>
+      </section>
+      <section id="id1172033904898">
+        <title>Topographical dictionaries:</title>
+        <para id="id1172027879856">Lugli, G. <emphasis effect="italics">Itinerario di Roma Antica</emphasis>. 1970.</para>
+        <para id="id1172017369352">Nash, Ernest. <emphasis effect="italics">Pictorial Dictionary of Ancient Rome.</emphasis> 2 Vols. 2nd ed. London. 1964.</para>
+        <para id="id1172032750467">Platner, S. B. and T. Ashby. <emphasis effect="italics">A Topographical Dictionary of Ancient Rome.</emphasis> Oxford. 1929.</para>
+        <para id="id1172024493665">Richardson, Lawrence, Jr. <emphasis effect="italics">A New Topographical Dictionary of Ancient Rome.</emphasis> Baltimore. 1992.</para>
+        <para id="id1172032815775">Richardson's <emphasis effect="italics">Dictionary</emphasis> gives definitions (e.g., of <emphasis effect="italics">domus, insula, atrium, horti, villa</emphasis>, etc.) and useful lists (e.g., under Domus, all known owners). It has no map, which is an inconvenience. However it works nicely in conjunction with the maps on the website <emphasis effect="italics">The Illustrated History of the Roman Empire</emphasis>  (<link url="http://www.roman-empire.net/maps/rome/">www.roman-empire.net/maps/rome</link>).</para>
+        <para id="id1172029278998">Steinby, E.M., ed. <emphasis effect="italics">Lexicon topographicum urbis romanae</emphasis>. 6 Vols. Oxford. 1993-.</para>
+        <para id="id1172022541515">Steinby's <emphasis effect="italics">Lexicon,</emphasis> now the defintive reference work of this kind, includes entries by a number of scholars active in research on Roman topography. It covers Christian as well as pagan buildings constructed within the Aurelian walls through the early seventh century CE, with major bibliography included. Most, but not all, articles are in Italian.</para>
+      </section>
+      <section id="id1172016302264">
+        <title>Topographical websites:</title>
+        <section id="id4138902"><title>Rome: </title><para id="id1172028967597"><emphasis effect="italics">The Illustrated History of the Roman Empire</emphasis>. </para>
+          <para id="id8806092"><link url="http://www.roman-empire.net/maps/rome/">www.roman-empire.net/maps/rome</link>. Maps of Rome, with specific sites and monuments highlighted.</para>
+          <para id="id1172027086968">A virtual plan of Rome: </para>
+          <para id="id1172002813815"><link url="http://www.unicaen.fr/services/cireve/rome/index.php">www.unicaen.fr/services/cireve/rome/index.php.</link></para>
+          <para id="id1172019540276">Stanford Digital Forma <emphasis effect="italics">Urbis Romae</emphasis> Project.</para>
+          <para id="id1172018519753"><link url="http://formaurbis.stanford.edu/docs/FURmap.html">formaurbis.stanford.edu/docs/FURmap.html</link></para>
+          <para id="id1172017765361">An extremely helpful, multi-faceted introduction to a key tool for the study of the ancient city, the Severan Marble Plan (<emphasis effect="italics">Forma Urbis Romae</emphasis>).</para>
+          <para id="eip-984">The Ara Pacis</para><para id="eip-413"><link url="http://cdm.reed.edu/ara-pacis//">cdm.reed.edu/ara-pacis/</link></para><para id="eip-50">A wonderful site on the Ara Pacis, created by Charles S. Rhyne, Professor Emeritus of Art History at Reed College, providing excellent illustrations, background, references, etc. to this extraordinary monument.</para><para id="id1172031307186">The Rome Reborn Project</para>
+          <para id="id1172027910715"><link url="http://www.romereborn.virginia.edu/">www.romereborn.virginia.edu</link></para>
+          <para id="id1172009073679">The Rome Reborn aims to create three-dimensional digital models illustrating the urban development of ancient Rome from the first settlement in the late Bronze Age (ca. 1000 B.C.) to the depopulation of the city in the early Middle Ages (ca. A.D. 550). The current version centers on the city as it was in 320 CE. </para>
+          <para id="id1172032244830">The Digital Roman Forum Project</para>
+          <para id="id1172028808447"><link url="http://dlib.etc.ucla.edu/projects/Forum/">dlib.etc.ucla.edu/projects/Forum</link></para>
+          <para id="id1172027587850">The Roman Forum Project under the auspices of UCLA’s Experiential Technology Center combines digital models of the Forum Roman at various historical periods with online resources for the study of its main structures. The site includes a link to open an interactive version of the ancient forum in Google Earth.</para>
+        </section>
+        <section id="id1172032422072">
+          <title>Outside of Rome: </title>
+          <para id="id1172028879939">Everything Ostia:</para>
+          <para id="id1172032441094"><link url="http://www.ostia-antica.org/">www.ostia-antica.org</link></para>
+          <para id="id1172005889769">The Princeton Enyclopedia of Classical Sites</para>
+          <para id="id1172027341275"><link url="http://icarus.umkc.edu/sandbox/perseus/pecs/index.html">icarus.umkc.edu/sandbox/perseus/pecs/index.html</link></para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
