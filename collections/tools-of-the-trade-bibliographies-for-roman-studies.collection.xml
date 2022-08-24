@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Sander M. Goldberg ,Stephen Wheeler">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11220</md:content-id>
     <md:title>Tools of the Trade: Bibliographies for Roman Studies</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>77f6baa6-f91d-4551-a143-e3b27e91f6d7</md:uuid>
-<md:slug>tools-of-the-trade-bibliographies-for-roman-studies</md:slug>
-</metadata>
+    <md:slug>tools-of-the-trade-bibliographies-for-roman-studies</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m37230"/>
     <col:module document="m36626"/>
